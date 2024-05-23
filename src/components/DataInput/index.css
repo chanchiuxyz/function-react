@@ -1,0 +1,32 @@
+.dataInput {
+  display: flex;
+  /* flex-direction: raw; */
+  margin: 10px;
+  background-color: white;
+  height: 300px;
+  width: 180px;
+
+  justify-content: center;
+  align-items: flex-end;
+
+  padding: 30px;
+  border-radius: 6%;
+  text-align: start;
+}
+input{
+    width: 150px;
+    margin-bottom: 20px;
+
+}
+#dataSubmit{
+    margin-top: 50px;
+}
+#dataSubmit{
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+    background-color: yellow;
+    font-weight: 800;
+    border-radius: 8px;
+
+}

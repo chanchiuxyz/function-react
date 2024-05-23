@@ -1,0 +1,40 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  background-color: white;
+  height: 300px;
+  width: 180px;
+
+  justify-content: center;
+  align-items: center;
+
+  padding: 30px;
+  border-radius: 6%;
+  text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: 40px;
+}
+
+.title{
+    margin-top: 1px;
+}
+
+button{
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+    background-color: yellow;
+    font-weight: 800;
+    border-radius: 8px;
+}
+
+
+
+.content{
+    margin-bottom: 10px;
+}
