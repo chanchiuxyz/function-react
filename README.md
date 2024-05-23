@@ -1,6 +1,6 @@
 # Rewrite by React framwork 
 
-# create project and install pubsub-js(for transfer data in Components)
+# create project and install pubsub-js(for transfer data between Components)
 
 ```
 npx create-react-app function-react
